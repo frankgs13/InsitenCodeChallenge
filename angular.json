@@ -24,6 +24,9 @@
               "src/assets"
             ],
             "styles": [
+              "../insiten-code-challenge/node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "../insiten-code-challenge/node_modules/devextreme/dist/css/dx.common.css", 
+              "../insiten-code-challenge/node_modules/devextreme/dist/css/dx.light.css", 
               "src/styles.css"
             ],
             "scripts": []
